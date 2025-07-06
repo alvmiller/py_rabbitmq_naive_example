@@ -1,0 +1,16 @@
+/*
+https://www.rabbitmq.com/tutorials/tutorial-one-python
+https://dev.to/felipepaz/getting-started-with-rabbitmq-and-python-a-practical-guide-57fi
+https://www.cloudamqp.com/blog/part2-3-rabbitmq-for-beginners_example-and-sample-code-python.html
+
+sudo apt install python-is-python3
+sudo apt-get update
+sudo apt install python3-pip
+
+python -m pip install pika --upgrade
+sudo apt install rabbitmq-server
+sudo rabbitmqctl list_queues
+
+python receive.py
+python send.py
+*/
