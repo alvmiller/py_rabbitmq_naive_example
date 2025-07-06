@@ -1,0 +1,2 @@
+# py_rabbitmq_naive_example
+py_rabbitmq_naive_example
